@@ -1,0 +1,9 @@
+@font-face{
+    font-family: 'JinNianYeYaoJiaYouYa-2';
+    
+    src: url('/font/JinNianYeYaoJiaYouYa-2.ttf') format("truetype");
+}
+
+body {
+    font-family: 'JinNianYeYaoJiaYouYa-2';
+}
