@@ -1,9 +1,9 @@
 @font-face{
-    font-family: 'JinNianYeYaoJiaYouYa-2';
+    font-family: '站酷快乐体2016';
     
-    src: url('/font/JinNianYeYaoJiaYouYa-2.ttf') format("truetype");
+    src: url('/font/站酷快乐体2016.ttf') format("truetype");
 }
 
 body {
-    font-family: 'JinNianYeYaoJiaYouYa-2';
+    font-family: '站酷快乐体2016';
 }
